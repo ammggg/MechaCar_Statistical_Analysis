@@ -22,7 +22,7 @@ When checking against all manufacturing lots, the variance of 62psi is within th
 T-Tests on Suspension Coils
 ---------------------------
 
-![image](https://user-images.githubusercontent.com/82548977/127259553-e3b2d82b-e51e-47ee-bb0b-9c72cadbf038.png)
+![image](https://user-images.githubusercontent.com/82548977/127260001-40241d4a-23b1-4090-a445-13db9e762086.png)
 
 Based on the outputs from the t-tests on the separate lots against a proposed population mean of 1,500psi, Lot 3 is the only confidence interval that **does not** contain 1,500psi. This means that the null hypothesis of 1,500psi can be rejected. For Lots 1 and 2, the confidence interval **does** contain 1,500psi which means that we fail to reject a null hypothesis of 1,500psi. 
 
